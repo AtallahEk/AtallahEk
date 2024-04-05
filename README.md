@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/atallah-ek-4b0278302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atallah-ek-4b0278302" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23458736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23458736" height="30" width="40" /></a>
 <a href="https://instagram.com/atallah.87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atallah.87" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/6a9NqK3Z4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6a9NqK3Z4r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
